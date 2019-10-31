@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-10-30T10:26:25.029Z</updated>
+  <updated>2019-10-31T04:26:51.676Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>事假</title>
+    <link href="http://yoursite.com/2019/10/31/%E4%BA%8B%E5%81%87/"/>
+    <id>http://yoursite.com/2019/10/31/事假/</id>
+    <published>2019-10-31T04:13:42.000Z</published>
+    <updated>2019-10-31T04:26:51.676Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="请假申请"><a href="#请假申请" class="headerlink" title="请假申请"></a>请假申请</h3><ul><li>事假需要尽量提前多的时间填写请假申请表，审批通过后方可离开项目。</li><li>如要离开老挝国境，需要办理<strong>往返签</strong>，办理需要5个工作日，所以尽可能留够时间。</li><li>往返签费用需要自己承担，<strong>加急</strong>处理需要支付更多的费用。</li></ul><h3 id="路费问题"><a href="#路费问题" class="headerlink" title="路费问题"></a>路费问题</h3><ul><li>事假产生的路费由个人承担，单位不予报销。</li></ul><h3 id="续假"><a href="#续假" class="headerlink" title="续假"></a>续假</h3><ul><li>如短时间内不能回项目需要续假，如生病，需要个人再写一份请假申请书，说明请假事由，附上证明文件，交到区域部人资部。</li></ul><h3 id="返回项目"><a href="#返回项目" class="headerlink" title="返回项目"></a>返回项目</h3><ul><li><p>欲返回项目，需要在假期结束前一周告知区域部综合部，确认项目工作安排和证件有效后方可订票。 </p><p>持续修正中，如有不解，请联系段奔QQ：272922720 </p></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;请假申请&quot;&gt;&lt;a href=&quot;#请假申请&quot; class=&quot;headerlink&quot; title=&quot;请假申请&quot;&gt;&lt;/a&gt;请假申请&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;事假需要尽量提前多的时间填写请假申请表，审批通过后方可离开项目。&lt;/li&gt;
+&lt;li&gt;如要离开老挝国境，需要办理&lt;
+      
+    
+    </summary>
+    
+    
+      <category term="假期制度" scheme="http://yoursite.com/categories/%E5%81%87%E6%9C%9F%E5%88%B6%E5%BA%A6/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>稿费</title>
@@ -71,33 +97,6 @@
   </entry>
   
   <entry>
-    <title>进出场</title>
-    <link href="http://yoursite.com/2019/10/29/%E8%BF%9B%E5%87%BA%E5%9C%BA/"/>
-    <id>http://yoursite.com/2019/10/29/进出场/</id>
-    <published>2019-10-29T08:21:24.000Z</published>
-    <updated>2019-10-30T10:28:38.374Z</updated>
-    
-    <content type="html"><![CDATA[<p>待更新…</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;待更新…&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-      <category term="人员调动" scheme="http://yoursite.com/categories/%E4%BA%BA%E5%91%98%E8%B0%83%E5%8A%A8/"/>
-    
-    
-      <category term="看看" scheme="http://yoursite.com/tags/%E7%9C%8B%E7%9C%8B/"/>
-    
-  </entry>
-  
-  <entry>
     <title>收发文</title>
     <link href="http://yoursite.com/2019/10/29/%E6%94%B6%E5%8F%91%E6%96%87/"/>
     <id>http://yoursite.com/2019/10/29/收发文/</id>
@@ -125,11 +124,38 @@
   </entry>
   
   <entry>
-    <title>年休假制度</title>
-    <link href="http://yoursite.com/2019/10/02/%E5%B9%B4%E4%BC%91%E5%81%87%E5%88%B6%E5%BA%A6/"/>
-    <id>http://yoursite.com/2019/10/02/年休假制度/</id>
+    <title>进出场</title>
+    <link href="http://yoursite.com/2019/10/29/%E8%BF%9B%E5%87%BA%E5%9C%BA/"/>
+    <id>http://yoursite.com/2019/10/29/进出场/</id>
+    <published>2019-10-29T08:21:24.000Z</published>
+    <updated>2019-10-30T10:28:38.374Z</updated>
+    
+    <content type="html"><![CDATA[<p>待更新…</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;待更新…&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="人员调动" scheme="http://yoursite.com/categories/%E4%BA%BA%E5%91%98%E8%B0%83%E5%8A%A8/"/>
+    
+    
+      <category term="看看" scheme="http://yoursite.com/tags/%E7%9C%8B%E7%9C%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>年休假</title>
+    <link href="http://yoursite.com/2019/10/02/%E5%B9%B4%E4%BC%91%E5%81%87/"/>
+    <id>http://yoursite.com/2019/10/02/年休假/</id>
     <published>2019-10-02T03:37:33.000Z</published>
-    <updated>2019-10-31T04:11:01.220Z</updated>
+    <updated>2019-10-31T04:13:07.797Z</updated>
     
     <content type="html"><![CDATA[<p>老挝区域部实行一年一休制度，在老挝工作满一年，既可休假35天（包含路上时间）</p><h3 id="请假申请"><a href="#请假申请" class="headerlink" title="请假申请"></a>请假申请</h3><ul><li>如要休假，需在计划日期前一个月填写请假申请表，根据项目工作安排，确认具体离开时间。</li><li>请假申请表通过审批后办理<strong>往返签</strong>，一般需要5个工作日，根据具体情况而不同。</li><li>往返签办好后既可订票，建议自己订票。</li></ul><h3 id="路费问题"><a href="#路费问题" class="headerlink" title="路费问题"></a>路费问题</h3><ul><li><p>老挝区域部年休假路费采用<strong>“包干制”</strong>，往返都可报销。标准为单程370美元，如有超出，个人承担。</p></li><li><p>路费报销单需要<strong>本人签字</strong>和所在<strong>项目经理签字</strong>，报销单<strong>必须带原件</strong>到万象营地才能报销 （个人不便的话，可以交给项目财务人员）。</p></li></ul><h3 id="休假期间薪资待遇"><a href="#休假期间薪资待遇" class="headerlink" title="休假期间薪资待遇"></a>休假期间薪资待遇</h3><ul><li>年休假期间发放基础工资，无绩效工资和技术津贴。证书津贴每月都有（如建造师）。</li></ul><h3 id="返回项目"><a href="#返回项目" class="headerlink" title="返回项目"></a>返回项目</h3><ul><li>欲返回项目，需要在假期结束前一周告知区域部综合部，确认项目工作安排和证件有效后方可订票。</li></ul>]]></content>
     
